@@ -45,4 +45,7 @@ quotes_teletips = [
 "When words fail, music speaks.",
 "Embrace the glorious mess that you are.",
 "I have nothing to lose but something to gain."
+"No technology that’s connected to the Internet is unhackable."
+"One single vulnerability all an attacker needs."
+"If somebody's hacking you, you don't want them to know that you know."
 ]
